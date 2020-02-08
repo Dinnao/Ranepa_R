@@ -5,7 +5,7 @@
 
 
 # Syllabus
-- [__week01__](.week01_PATH) __PATH__
+- [__week01__](./week01_PATH) __PATH__
   - Seminar: File_PATH, setwd(), getwd().
 
 
