@@ -1,4 +1,6 @@
 ### PATH
+Разбираеся где и откуда взять данные, и как загрузить их на R! 
+Ссылки на семинар и домашку:
 - [__Seminar__](https://yadi.sk/d/gtgMkiCKDEoobg)
 - [Homework](https://yadi.sk/i/BNTJ)
 
