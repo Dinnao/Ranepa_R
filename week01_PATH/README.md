@@ -1,12 +1,12 @@
 ### PATH
-- [__lecture slides__](../resources/slides/nlp19_01_word_embeddings.pdf)
-- Our videos: [__intro__](https://yadi.sk/i/BNTJG-_rwf20Gw), [__lecture__](https://yadi.sk/i/nUiHl4VPMOCz0g), [__seminar__](https://yadi.sk/i/QTcGA5mgdhS8jg)
+- [__Seminar__](https://yadi.sk/d/gtgMkiCKDEoobg)
+- [Homework](https://yadi.sk/i/BNTJ)
 
 
 ### Practice & homework
 The practice for this week takes place in notebooks. Just open them and follow instructions from there.
-* __Seminar:__ `./seminar.ipynb`
-* __Homework:__ `./homework.ipynb`
+* __Seminar:__ `./seminar.R`
+* __Homework:__ `./homework.R`
 
 
 #### This is the way
