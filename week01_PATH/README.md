@@ -16,5 +16,5 @@ The practice for this week takes place in notebooks. Just open them and follow i
 
 ### More materials (optional)
 * Article [page](https://www.dummies.com/programming/r/how-to-work-with-files-and-folders-in-r/)
-
+* [download from internet](https://medium.com/@benjaminobi/download-a-file-from-the-internet-using-the-r-functions-download-file-and-read-csv-e7bd415648e4)
 
