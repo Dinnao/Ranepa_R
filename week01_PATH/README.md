@@ -2,8 +2,8 @@
 Разбираеся где и откуда взять данные, и как загрузить их на R! 
 Ссылки на семинар и домашку:
 - [__I WANT ALL__](https://yadi.sk/d/WomxnkJKF4PBxg)
-- [__Seminar__](https://yadi.sk/d/WomxnkJKF4PBxg)
-- [Homework](https://yadi.sk/i/BNTJ)
+- [__Seminar__](https://yadi.sk/d/vFR_n4O3gBKBXw)
+- [Homework](https://yadi.sk/d/wdM9GiljuexeoQ)
 
 
 ### Practice & homework
