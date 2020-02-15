@@ -12,7 +12,7 @@
   
 # Contributors & course staff
 Course materials and teaching performed by
-- [Dima Tretyakov](https://github.com/Dinnao) - seminars, homeworks
+- [Dima Tretyakov](https://github.com/Xxx1xx1XX1xX) - seminars, homeworks
 - [Maksim Midukin](https://github.com/MidiukinM) - seminars, homeworks
 
 
