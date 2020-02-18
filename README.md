@@ -8,7 +8,7 @@
 - [__week01__](./week01_PATH) __PATH__
   - Seminar: File_PATH, setwd(), getwd().
 
-- [__week02__](./week02_apply) __PATH__
+- [__week02__](./week02_apply) __apply__
   - Seminar: apply, sapply, vapply.
   
 # Contributors & course staff
