@@ -11,6 +11,9 @@
 - [__week02__](./week02_apply) __apply__
   - Seminar: apply, sapply, vapply.
   
+- [__week03__](./week03_dplyr) __dplyr__
+  - Seminar: slice, arrange, group_by.
+
 # Contributors & course staff
 Course materials and teaching performed by
 - [Dima Tretyakov](https://github.com/Xxx1xx1XX1xX) - seminars, homeworks
