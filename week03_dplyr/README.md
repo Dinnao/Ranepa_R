@@ -1,9 +1,9 @@
 ### Apply
 Разбираеся как раюотают функции семейства apply! 
 Ссылки на семинар и домашку:
-- [__I WANT ALL__](https://yadi.sk/d/SABrzFLJYNo7Ow)
-- [__Seminar__](https://yadi.sk/d/xuQJ0Rjzlpy99A)
-- [__Homework__](https://yadi.sk/d/IXNQ3SF1SrU5ng)
+- [__I WANT ALL__](https://yadi.sk/d/cvGzXWD3ToyFuA)
+- [__Seminar__](https://yadi.sk/d/o2-mwCq4xPvwGw)
+- [_Homework_](https://yadi.sk/d/nnAyjywpkt60kQ)
 
 
 ### Practice & homework
@@ -14,5 +14,6 @@ The practice for this week takes place in notebooks. Just open them and follow i
 
 
 ### More materials (optional)
-* Article [page](https://habr.com/ru/company/infopulse/blog/274611/)
+* Article [page](https://habr.com/ru/company/infopulse/blog/281747/)
+* Article [page](https://habr.com/ru/company/infopulse/blog/302624/)
 
