@@ -1,5 +1,5 @@
-### Apply
-Разбираеся как раюотают функции семейства apply! 
+### dplyr
+Разбираемся как работает пакет для анализа табличных данных dplyr! 
 Ссылки на семинар и домашку:
 - [__I WANT ALL__](https://yadi.sk/d/cvGzXWD3ToyFuA)
 - [__Seminar__](https://yadi.sk/d/o2-mwCq4xPvwGw)

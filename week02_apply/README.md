@@ -1,5 +1,5 @@
 ### Apply
-Разбираеся как раюотают функции семейства apply! 
+Разбираемся как работают функции семейства apply! 
 Ссылки на семинар и домашку:
 - [__I WANT ALL__](https://yadi.sk/d/SABrzFLJYNo7Ow)
 - [__Seminar__](https://yadi.sk/d/xuQJ0Rjzlpy99A)
