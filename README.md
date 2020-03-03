@@ -14,6 +14,9 @@
 - [__week03__](./week03_dplyr) __dplyr__
   - Seminar: slice, arrange, group_by.
 
+- [__week04__](./week04_re) __re__
+  - Seminar: re
+
 # Contributors & course staff
 Course materials and teaching performed by
 - [Dima Tretyakov](https://github.com/Xxx1xx1XX1xX) - seminars, homeworks
