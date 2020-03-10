@@ -17,6 +17,9 @@
 - [__week04__](./week04_re) __re__
   - Seminar: re
 
+- [__week04__](./week05_ggplot2) __ggplot2__
+  - Seminar: plot, ggplot2
+
 # Contributors & course staff
 Course materials and teaching performed by
 - [Dima Tretyakov](https://github.com/Xxx1xx1XX1xX) - seminars, homeworks
