@@ -17,7 +17,7 @@
 - [__week04__](./week04_re) __re__
   - Seminar: re
 
-- [__week04__](./week05_ggplot2) __ggplot2__
+- [__week05__](./week05_ggplot2) __ggplot2__
   - Seminar: plot, ggplot2
 
 # Contributors & course staff
