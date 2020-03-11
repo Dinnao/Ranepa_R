@@ -2,7 +2,7 @@
 Строим и практикуемся в прекрасном ggplot2!
 
 Ссылки на семинар и домашку:
-- [__I WANT ALL__](https://disk.yandex.ru/client/disk/Ranepa_R/week5)
+- [__I WANT ALL__](https://yadi.sk/d/kFEi_abX3uXt_w)
 - [__Seminar__]()
 - [_Homework_]()
 
